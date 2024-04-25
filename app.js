@@ -75,7 +75,7 @@
 // let narxi = +prompt(`Konfet narxini kiriting:`);
 
 // for (let i = 0.1; i <= 1; i = i + 0.1) {
-//   console.log(`${i * 1000} gram ${narxi * i} so'm`);
+// console.log(`${i.toFixed(1)} kg konfetning narxi ${i.toFixed(1) * narxi} so'm`);
 // }
 
 // 6)
